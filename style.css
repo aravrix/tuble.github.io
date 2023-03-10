@@ -70,8 +70,8 @@ html {
 
 /* Style the active/current link*/
 .header a.active {
-  background-color: dodgerblue;
-  color: white;
+  background-color: yellowgreen;
+  color: gold;
 }
 
 /* Float the link section to the right */
